@@ -1,9 +1,9 @@
 # Introduction
 
-git clone
-yarn
-expo start --clear
-expo build:android
+-git clone
+-yarn
+-expo start --clear
+-expo build:android
 
 # Guide
 
