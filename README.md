@@ -1,23 +1,9 @@
 # Introduction
 
-Soft UI Pro React Native is a premium mobile UI template built with Google's React-Native allowing you to create powerful and beautiful mobile applications. 
-
-Using the mobile application is very simple but it does require you to understand basic React functions and React Native also to work with React Native, you will need to have an understanding of JavaScript fundamentals.  
-
-## Getting Started
-* Getting started: [https://reactnative.dev/docs/getting-started](https://reactnative.dev/docs/getting-started)
-* React Fundamentals: [https://reactnative.dev/docs/intro-react](https://reactnative.dev/docs/intro-react)
-
-## Installation
-
-Once you've downloaded the product from our website you should unzip the folder. The next step is for you to open up your terminal and go directly to the newly created folder called `soft-ui-react-native-vX.Y` (x and y are numbers indicating the version number). Once you're there run `npm install` or `yarn install` and then `expo start` to start the project.
-
-* **Running on Simulator**:
-If you are using a simulator or emulator, you may find the following Expo CLI keyboard shortcuts to be useful:
-- Pressing **i** will open in an [iOS simulator](https://docs.expo.io/workflow/ios-simulator/).
-- Pressing **a** will open in an [Android emulator or connected device](https://docs.expo.io/workflow/android-studio-emulator/).
-- Pressing **w** will open in your browser. Expo supports all major browsers.
-
+git clone
+yarn
+expo start --clear
+expo build:android
 
 # Guide
 
