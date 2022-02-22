@@ -1,13 +1,19 @@
 # Introduction
 
-<ol>
+<ul>
   <li>
-    -git clone
--yarn
--expo start --clear
--expo build:android
+git clone
   </li>
-  </ol>
+  <li>
+    yarn
+  </li>
+<li>
+  expo start --clear
+  </li>
+  <li>
+    expo build:android
+  </li>
+  </ul>
 
 # Guide
 
