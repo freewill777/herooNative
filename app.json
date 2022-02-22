@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "rn-soft-ui-kit",
+    "slug": "rn-soft-ui-kit",
+    "description": "Heroo",
+    "primaryColor": "#007f83",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash_center.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#007f83"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#007f83"
+      },
+      "package": "com.skris93.heroo1",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCMNsRjKSYQspJD7bJIVzqGKfVWOI-Fnk0"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
